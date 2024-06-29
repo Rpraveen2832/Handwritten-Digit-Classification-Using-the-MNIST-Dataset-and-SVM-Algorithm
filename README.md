@@ -4,7 +4,11 @@
 Key Features
 
   Data Preparation: Fetches the MNIST dataset, normalizes the pixel values, and splits the data into training and testing sets.
+  
   Model Creation: Utilizes the LinearSVC class from Scikit-learn to create a linear SVM classifier.
+  
   Model Training: Trains the SVM classifier on the training data.
+  
   Model Evaluation: Evaluates the model's performance using accuracy and confusion matrix metrics.
+  
   Visualization: Visualizes some sample predictions along with their true labels.
